@@ -2,6 +2,8 @@
 
 ## 项目简介
 
+**NOTE: THIS IS A FORKED VERSION THAT SOLVES SOME INSTALLATION ISSUES ON THE GOOGLE COLAB DUE TO OVER-RESTRICTING PACKAGE VERSION.**
+
 ![License](https://img.shields.io/badge/License-Apache%202-red.svg)
 ![python version](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![support os](https://img.shields.io/badge/OS-Windows/macOS/Linux-green.svg)  
